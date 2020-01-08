@@ -6,4 +6,5 @@ This Repositories contains Reinforcement Learning Implementation Of Q Learning, 
 
 
 *Feel Free to Ask Question with Issues.*
-**Others are also being added in the future.
+
+**Others are also being added in the future.**
